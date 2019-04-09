@@ -6,5 +6,6 @@
 # Learnings
 * Setting up Firebase
 * Navigation Controller & Closures
+* TableViews
 * UI Animation in iOS
 * cocoa pods
